@@ -14,7 +14,7 @@
 
 ### 3.6 버전 12층 여캐파티 (3.6v 12th floor girls team)
 - [전체 영상 (Youtube)](https://youtu.be/PQ93hbG7j9U) 
-- [12층 스펙 (Spectate)]()
+- [12층 스펙 (Spectate)](https://github.com/emboob/Genshin_Impact-Spiral_Abyss/blob/main/spectate/3.6v%20girls%20team/README.md)
 
 <hr/>
 
