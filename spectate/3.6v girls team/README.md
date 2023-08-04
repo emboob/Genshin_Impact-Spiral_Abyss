@@ -9,7 +9,7 @@
 
 ## 하반부 (2nd half)
 
-![5-Traveler](./5-Traveler.png)
-![6-Kokomi](./6-Kokomi.png)
-![7-Nilou](./7-Nilou.png)
-![8-Nahida](./8-Nahida.png)
+![5-Traveler](./5-Traveler_.png)
+![6-Kokomi](./6-Kokomi_.png)
+![7-Nilou](./7-Nilou_.png)
+![8-Nahida](./8-Nahida_.png)
