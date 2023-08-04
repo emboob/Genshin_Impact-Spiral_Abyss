@@ -1,4 +1,4 @@
-# 전반부
+## 상반부
 
 ![1-Traveler](./1-Traveler.png)
 ![2-Kokomi](./2-Kokomi.png)
@@ -7,7 +7,7 @@
 
 </hr>
 
-# 후반부
+## 하반부
 
 ![5-Layla](./5-Layla.png)
 ![6-Mona](./6-Mona.png)
