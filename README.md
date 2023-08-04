@@ -26,7 +26,6 @@
 
 ### 3.4 버전 12층 여캐파티 (3.4v 12th floor girls team)
 - [전체 영상 (Youtube)](https://youtu.be/YAJZixseauI) 
-- [12층 스펙 (Spectate)]()
 
 <hr/>
 
@@ -38,58 +37,48 @@
 
 ### 3.4 버전 (3.4v)
 - [전체 영상 (Youtube)](https://youtu.be/IfJ97Gn9XkY) 
-- [12층 스펙 (Spectate)]()
 
 <hr/>
 
 ### 3.3 버전 (3.3v)
 - [전체 영상 (Youtube)](https://youtu.be/9arYq_yDP_U) 
-- [12층 스펙 (Spectate)]()
 
 <hr/>
 
 ### 3.2 버전 (3.2v)
 - [전체 영상 (Youtube)](https://youtu.be/ie4qVrD2NwQ) 
-- [12층 스펙 (Spectate)]()
 
 <hr/>
 
 ### 3.1 버전 닐루+나히다 (3.1v Nilou+Nahida)
 - [전체 영상 (Youtube)](https://youtu.be/j9JTRB9wh3g) 
-- [12층 스펙 (Spectate)]()
 
 <hr/>
 
 ### 3.1 버전 (3.1v)
 - [전체 영상 (Youtube)](https://youtu.be/WZg68qYeChg) 
-- [12층 스펙 (Spectate)]()
 
 <hr/>
 
 ### 3.0 버전 (3.0v)
 - [전체 영상 (Youtube)](https://youtu.be/jJdIi3BXds4) 
-- [12층 스펙 (Spectate)]()
 
 <hr/>
 
 ### 2.8 버전 (2.8v)
 - [전체 영상 (Youtube)](https://youtu.be/oS94pqgqyMA) 
-- [12층 스펙 (Spectate)]()
 
 <hr/>
 
 ### 2.7 버전 (2.7v)
 - [전체 영상 (Youtube)](https://youtu.be/8C5uCIhzqxg)
-- [12층 스펙 (Spectate)]()
 
 <hr/>
 
 ### 2.5 버전 (2.5v)
 - [전체 영상 (Youtube)](https://youtu.be/VjgbLRPvFqM)
-- [12층 스펙 (Spectate)]()
 
 <hr/>
 
 ### 2.2 버전 (2.2v)
 - [전체 영상 (Youtube)](https://youtu.be/Rr79B1ZcG-E)
-- [12층 스펙 (Spectate)]()
