@@ -9,7 +9,6 @@
 
 ## 하반부 (2nd half)
 
-![5-Shinobu](./5-Shinobu.png)
 ![6-Yelan](./6-Yelan.png)
 ![7-Mona](./7-Mona.png)
 ![8-Nahida](./8-Nahida.png)
