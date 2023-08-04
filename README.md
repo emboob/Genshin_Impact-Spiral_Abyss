@@ -30,7 +30,7 @@
 
 <hr/>
 
-### 3.4 버전 호두 (3.8v Hutao)
+### 3.4 버전 호두 (3.4v Hutao)
 - [전체 영상 (Youtube)](https://youtu.be/nAC8XOvOMgk) 
 - [12층 스펙 (Spectate)]()
 
