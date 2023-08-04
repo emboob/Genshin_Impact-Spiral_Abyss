@@ -1,8 +1,8 @@
 # 원신-버전별 나선 비경 12층 클리어 모음
 
 ### 3.8 버전 12층 여캐파티 (3.8v 12th floor girls team)
-- [전체 영상(youtube)](https://youtu.be/UGI3EIVQ7O4) 
-- [12층 스펙(spectate)]()
+- [전체 영상 (youtube)](https://youtu.be/UGI3EIVQ7O4) 
+- [12층 스펙 (spectate)]()
 
 <hr/>
 
