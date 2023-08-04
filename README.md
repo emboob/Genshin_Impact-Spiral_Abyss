@@ -2,7 +2,7 @@
 
 ### 3.8 버전 12층 여캐파티 (3.8v 12th floor girls team)
 - [전체 영상 (Youtube)](https://youtu.be/UGI3EIVQ7O4) 
-- [12층 스펙 (Spectate)]()
+- [12층 스펙 (Spectate)](https://github.com/emboob/Genshin_Impact-Spiral_Abyss/tree/main/spectate/3.8v%20girls%20team#readme)
 
 <hr/>
 
