@@ -10,6 +10,6 @@
 ## 하반부 (2nd half)
 
 ![5-Kazuha](./5-Kazuha.png)
-![6-Yelan](./6-Yelan.png)
+![6-Yelan](./6-Yelan_.png)
 ![7-Raiden](./7-Raiden.png)
 ![8-Benett](./8-Benett.png)
