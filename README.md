@@ -8,7 +8,7 @@
 
 ### 3.7 버전 (3.7v)
 - [전체 영상 (Youtube)](https://youtu.be/5k79S3CrO7Q) 
-- [12층 스펙 (Spectate)]()
+- [12층 스펙 (Spectate)](https://github.com/emboob/Genshin_Impact-Spiral_Abyss/blob/main/spectate/3.7v/README.md)
 
 <hr/>
 
