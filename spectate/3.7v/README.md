@@ -1,4 +1,4 @@
-## 상반부
+## 상반부 (1st half)
 
 ![1-Zhongli](./1-Zhongli.png)
 ![2-Fischl](./2-Fischl.png)
@@ -7,7 +7,7 @@
 
 </hr>
 
-## 하반부
+## 하반부 (2nd half)
 
 ![5-Kazuha](./5-Kazuha.png)
 ![6-Yelan](./6-Yelan.png)
