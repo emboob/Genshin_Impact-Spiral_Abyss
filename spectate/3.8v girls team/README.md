@@ -1,6 +1,6 @@
 # 전반부
 
-![1-Traveler](./1-Travler.png)
+![1-Traveler](./1-Traveler.png)
 ![2-Kokomi](./2-Kokomi.png)
 ![3-Nilou](./3-Nilou.png)
 ![4-Nahida](./4-Nahida.png)
