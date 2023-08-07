@@ -12,4 +12,4 @@
 ![5-Kazuha](./5-Kazuha.png)
 ![6-Yelan](./6-Yelan_.png)
 ![7-Raiden](./7-Raiden.png)
-![8-Benett](./8-Benett.png)
+![8-Bennett](./8-Bennett.png)
