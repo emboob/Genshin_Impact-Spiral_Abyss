@@ -31,7 +31,7 @@
 
 ### 3.4 버전 호두 (3.4v Hutao)
 - [전체 영상 (Youtube)](https://youtu.be/nAC8XOvOMgk) 
-- [12층 스펙 (Spectate)]()
+- [12층 스펙 (Spectate)](https://github.com/emboob/Genshin_Impact-Spiral_Abyss/blob/main/spectate/3.4v%20Hutao/README.md)
 
 <hr/>
 
