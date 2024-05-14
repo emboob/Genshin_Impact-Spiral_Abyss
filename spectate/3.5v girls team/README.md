@@ -11,6 +11,6 @@
 ![3.5v-2nd](./images/3.5v-2nd.PNG)
 ![5-Shinobu](./images/05-Shinobu.png)
 ![6-Yelan](./images/06-Yelan.png)
-![7-Mona](./images/7-Mona.png)
-![8-Nahida](./images/8-Nahida.png)
+![7-Mona](./images/07-Mona.png)
+![8-Nahida](./images/08-Nahida.png)
 
