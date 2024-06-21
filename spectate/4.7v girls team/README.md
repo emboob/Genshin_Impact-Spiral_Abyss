@@ -1,47 +1,47 @@
 # 계정 1
 ## 상반부 (1st half)
 ![4.7v-acc1-1st](./images/4.7v-acc1-1st.PNG)
-![1-Lynette](./images/01-Lynette.png)
-![2-Xiangling](./images/02-Xiangling.png)
+![1-Chevreuse](./images/01-Chevreuse.png)
+![2-Miko](./images/02-Miko.png)
 ![3-Arlecchino](./images/03-Arlecchino.png)
-![4-Layla](./images/04-Layla.png)
+![4-Dehya](./images/04-Dehya.png)
 
 </hr>
 
 ## 하반부 (2nd half)
 ![4.7v-acc1-2nd](./images/4.7v-acc1-2nd.PNG)
-![5-Shinobu](./images/05-Shinobu.png)
-![6-Yelan](./images/06-Yelan.png)
-![7-Furina](./images/07-Furina.png)
-![8-Nahida](./images/08-Nahida.png)
+![5-Lynette](./images/05-Lynette.png)
+![6-Furina](./images/06-Furina.png)
+![7-Ayaka](./images/07-Ayaka.png)
+![8-Shenhe](./images/08-Shenhe.png)
 
 </hr>
 
 # 계정 2
 ## 상반부 (1st half)
 ![4.7v-acc2-1st](./images/4.7v-acc2-1st.PNG)
-![9-Lynette](./images/09-Lynette.png)
-![10-Furina](./images/10-Furina.png)
+![9-Chevreuse](./images/09-Chevreuse.png)
+![10-Miko](./images/10-Miko.png)
 ![11-Raiden](./images/11-Raiden.png)
-![12-Nahida](./images/12-Nahida.png)
+![12-Xiangling](./images/12-Xiangling.png)
 
 </hr>
 
 ## 하반부 (2nd half)
 ![4.7v-acc2-2nd](./images/4.7v-acc2-2nd.PNG)
-![13-Chevreuse](./images/13-Chevreuse.png)
-![14-Miko](./images/14-Miko.png)
-![15-Arlecchino](./images/15-Arlecchino.png)
-![16-Xiangling](./images/16-Xiangling.png)
+![13-Yelan](./images/13-Yelan.png)
+![14-Furina](./images/14-Furina.png)
+![15-Yoimiya](./images/15-Yoimiya.png)
+![16-Yunjin](./images/16-Yunjin.png)
 
 </hr>
 
 # 계정 3
 ## 상반부 (1st half)
 ![4.7v-acc3-1st](./images/4.7v-acc3-1st.PNG)
-![17-Layla](./images/17-Layla.png)
+![17-Lynette](./images/17-Lynette.png)
 ![18-Fischl](./images/18-Fischl.png)
-![19-Keqing](./images/19-Keqing.png)
+![19-Clorinde](./images/19-Clorinde.png)
 ![20-Nahida](./images/20-Nahida.png)
 
 </hr>
