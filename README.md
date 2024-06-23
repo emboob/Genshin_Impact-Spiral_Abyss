@@ -1,5 +1,11 @@
 # 원신-버전별 나선 비경 클리어 모음
 
+### 4.7 버전 모든층 여캐파티 (4.6v All floor girls team)
+- [12층 영상 (Youtube)](https://youtu.be/VoK3h4eYqXo)
+- [12층 스펙 (Spectate)](https://github.com/emboob/Genshin_Impact-Spiral_Abyss/blob/main/spectate/4.7v%20girls%20team/README.md)
+
+<hr/>
+
 ### 4.6 버전 모든층 여캐파티 (4.6v All floor girls team)
 - [12층 영상 (Youtube)](https://youtu.be/bewePODhmwY)
 - [12층 스펙 (Spectate)](https://github.com/emboob/Genshin_Impact-Spiral_Abyss/blob/main/spectate/4.6v%20girls%20team/README.md)
